@@ -5,5 +5,7 @@ class helloworld {
   private String name;
   
   public helloworld() {
+    val = 0;
+    name = "";
   }
 }
